@@ -1,0 +1,24 @@
+.container {
+    width: 250px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+.box {
+    background-color: crimson;
+    height: 250px;
+    width: 250px;
+}
+
+input {
+    margin: 20px 0px;
+    width: 30px;
+}
+
+.flex-between {
+    display: flex;
+    justify-content: space-between;
+}
